@@ -5,3 +5,4 @@
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, JS
+* 🐍 Python
