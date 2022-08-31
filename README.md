@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel!👋
 
-### 🧑‍💻 ->🌐 Junior Web Developer
+### 🧑‍💻 ->🌐 Front-End Web Developer
 
 ## Skills and Experience
 * ⚛️ React
