@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel!👋
+# Hi there!👋
 
 ### 🧑‍💻 ->🌐 Web Developer
 
