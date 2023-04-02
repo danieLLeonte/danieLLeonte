@@ -4,5 +4,5 @@
 
 ## Skills and Experience
 * ⚛️ React
-* 💻 HTML5 | CSS3 | JavaScript
-* 🔧 Node.js
+* 💻 HTML | CSS | JavaScript
+* 🔧 Node
