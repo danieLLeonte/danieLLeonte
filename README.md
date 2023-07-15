@@ -1,6 +1,6 @@
 # Hi there!👋
 
-### 🧑‍💻 ->🌐 Web Developer
+### 🧑‍💻🔁🌐 Web Developer
 
 ## Skills and Experience
 * ⚛️ React
