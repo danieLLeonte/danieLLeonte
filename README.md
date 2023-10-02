@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### Web Developer
+### Software Engineer
 
 ## Skills and Experience
 * ⚛️ React
