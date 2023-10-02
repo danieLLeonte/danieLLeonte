@@ -1,6 +1,6 @@
-# Hi there! 👋
+### Hi there! 👋
 
-### Software Engineer
+## Software Engineer
 
 ## Skills and Experience
 * ⚛️ React
