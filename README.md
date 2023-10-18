@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-# Software Engineer
+# 🌐 Web Developer
 
 ## Skills and Experience
 * ⚛️ React.js | Next.js
